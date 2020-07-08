@@ -17,7 +17,6 @@
   "environment": {
     "hideintro": true,
     "uilayout": "terminal-iframe",
-    "showdashboard": true,
     "dashboards": [{ "name": "Port 80", "port": 80 }]
   },
   "backend": {
