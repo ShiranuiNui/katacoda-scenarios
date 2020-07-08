@@ -1,0 +1,26 @@
+{
+  "title": "Displaying Web UI ",
+  "description": "Learn how to access a Web UI running on the environment",
+  "details": {
+    "steps": [
+      {
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal-iframe",
+    "showdashboard": true,
+    "dashboards": [{ "name": "Port 80", "port": 80 }]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
